@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.post-editor {
+  margin : 1em 10%;
+}
+@media(max-width: 900px) {
+  .post-editor {
+    margin: 1em;
+  }
+  .post-body {
+    margin: 1em;
+  }
+}
+.post-body{
+    margin: 1em 10%;
+}
+
+.post-editor-button {
+  float : right;
+  margin-top : 1em;
+}
+.post-editor-button1{
+  float : center;
+  margin-top: 1em;
+  margin-bottom:  1em;
+}
+.post-editor-button2{
+  float : center;
+  margin-bottom: 1em;
+}
+.progress{
+  margin-top: 1em;
+}
+.post-editor-button3{
+
+  margin-top: -2em;
+  margin-bottom:  2em;
+}
+.progress{
+  style : width 40%;
+  float : center;
+}
+
+.brand-logo{
+  font-size : 3rem;
+}
+.font{
+  font-size : 3rem;
+  padding: 7px;
+  font-family: arial;
+}
+.header{
+  height:80px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
