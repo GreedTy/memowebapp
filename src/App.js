@@ -13,7 +13,7 @@ class App extends Component {
 
     const config =
     {
-      apiKey: "AIzaSyBKst7YOZ_HtMgn_tbKRVFlf_YsNqmqp9E",
+      apiKey: "",
       authDomain: "react-memo-app.firebaseapp.com",
       databaseURL: "https://react-memo-app.firebaseio.com",
       projectId: "react-memo-app",
